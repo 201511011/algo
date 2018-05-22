@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Divide and Conquer">
+      <UniqueIdentifier>{af2f04d8-4701-4661-b555-4f7a5a0b39a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Divide and Conquer\1.2 별찍기-11">
+      <UniqueIdentifier>{5a9e364e-c622-4091-bc58-173f0ce8a178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Divide and Conquer\2.1 색종이 만들기">
+      <UniqueIdentifier>{1ae3bc22-da1d-4ed1-913c-3bed23f20281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Divide and Conquer\2.2 쿼드트리뒤집기_02">
+      <UniqueIdentifier>{9e7c65ef-b815-4ba5-837f-43b8210964f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Divide and Conquer\1.1 쿼드트리 뒤집기01">
+      <UniqueIdentifier>{4d1d10f3-8b47-4e33-9891-504fcfe21dc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\graph">
+      <UniqueIdentifier>{c3d449bf-d7b4-4998-ac31-b9fd73a56486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\graph\3.1 영역 구하기">
+      <UniqueIdentifier>{093d1000-3833-47b5-a515-1f6e8b396ad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\graph\3.2 안전영역">
+      <UniqueIdentifier>{6b3ef6ad-7e8d-4eb4-8655-e10e27ca8709}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\graph\4.1 순열싸이클">
+      <UniqueIdentifier>{57c8d503-1aa0-4209-bc8c-dd446ec0be9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\graph\4.2 최소비용구하기2">
+      <UniqueIdentifier>{a2e4ec99-8c84-4836-9d26-64023e7d2926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\graph\4.3 경로찾기">
+      <UniqueIdentifier>{deeb476f-400e-43d6-9f27-9b929487a0d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\greedy">
+      <UniqueIdentifier>{67334e54-c1fd-448e-850d-03724236fa24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="별찍기.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.2 별찍기-11</Filter>
+    </ClCompile>
+    <ClCompile Include="별찍기_답지.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.2 별찍기-11</Filter>
+    </ClCompile>
+    <ClCompile Include="쿼드트리_답지.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.1 쿼드트리 뒤집기01</Filter>
+    </ClCompile>
+    <ClCompile Include="01.쿼드트리뒤집기.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.1 쿼드트리 뒤집기01</Filter>
+    </ClCompile>
+    <ClCompile Include="1.1쿼드트리뒤집기.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.1 쿼드트리 뒤집기01</Filter>
+    </ClCompile>
+    <ClCompile Include="znje.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.1 쿼드트리 뒤집기01</Filter>
+    </ClCompile>
+    <ClCompile Include="쿼드트리.cpp">
+      <Filter>소스 파일\Divide and Conquer\1.1 쿼드트리 뒤집기01</Filter>
+    </ClCompile>
+    <ClCompile Include="colored_paper.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.1 색종이 만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="mama.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.1 색종이 만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="씨발.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.1 색종이 만들기</Filter>
+    </ClCompile>
+    <ClCompile Include="제출.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.2 쿼드트리뒤집기_02</Filter>
+    </ClCompile>
+    <ClCompile Include="쿼드트리정답.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.2 쿼드트리뒤집기_02</Filter>
+    </ClCompile>
+    <ClCompile Include="sdjkfbxca.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.2 쿼드트리뒤집기_02</Filter>
+    </ClCompile>
+    <ClCompile Include="mamamsdkjsdf.cpp">
+      <Filter>소스 파일\Divide and Conquer\2.2 쿼드트리뒤집기_02</Filter>
+    </ClCompile>
+    <ClCompile Include="영역구하기.cpp">
+      <Filter>소스 파일\graph\3.1 영역 구하기</Filter>
+    </ClCompile>
+    <ClCompile Include="최종제출본.cpp">
+      <Filter>소스 파일\graph\3.1 영역 구하기</Filter>
+    </ClCompile>
+    <ClCompile Include="안전영역.cpp">
+      <Filter>소스 파일\graph\3.2 안전영역</Filter>
+    </ClCompile>
+    <ClCompile Include="순열싸이클_01.cpp">
+      <Filter>소스 파일\graph\4.1 순열싸이클</Filter>
+    </ClCompile>
+    <ClCompile Include="순열싸이클_02.cpp">
+      <Filter>소스 파일\graph\4.1 순열싸이클</Filter>
+    </ClCompile>
+    <ClCompile Include="최소비용_02.cpp">
+      <Filter>소스 파일\graph\4.2 최소비용구하기2</Filter>
+    </ClCompile>
+    <ClCompile Include="소스jbiubi.cpp">
+      <Filter>소스 파일\graph\4.2 최소비용구하기2</Filter>
+    </ClCompile>
+    <ClCompile Include="최소값구하기03.cpp">
+      <Filter>소스 파일\graph\4.2 최소비용구하기2</Filter>
+    </ClCompile>
+    <ClCompile Include="경로찾기.cpp">
+      <Filter>소스 파일\graph\4.3 경로찾기</Filter>
+    </ClCompile>
+    <ClCompile Include="최소비용구하기04.cpp">
+      <Filter>소스 파일\graph\4.2 최소비용구하기2</Filter>
+    </ClCompile>
+    <ClCompile Include="5.1신입사원.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="저울.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
